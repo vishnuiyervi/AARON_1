@@ -1,0 +1,12 @@
+Format:
+
+~/_cmd_ _arg_
+
+AARON Shell Definitions:
+~/f n	---	moves forward n cm
+~/b n	---	moves backwards n cm
+~/l n	---	turns left n degrees
+~/r n	---	turns right n degrees
+~/g _n_	---	grasps left if n is l, right if n is r and both if n is bo
+~/u n	---	moves arms up n degrees
+~/d n	---	moves arms down n degrees
